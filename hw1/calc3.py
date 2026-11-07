@@ -15,3 +15,5 @@ while True:
         c = str(input())
         print('Результат:', f(a, b, c))
         break
+
+    
