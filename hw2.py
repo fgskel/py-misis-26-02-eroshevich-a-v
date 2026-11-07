@@ -69,3 +69,4 @@ t_5 = '    pYtHon;is;AWESome    '
 def fifth_lv(t_5):
     return t_5.strip().replace(';', ', ').upper().capitalize()
 print(fifth_lv(t_5))
+
